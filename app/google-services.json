@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "82317450134",
+    "firebase_url": "https://forgameoffood-798d9.firebaseio.com",
+    "project_id": "forgameoffood-798d9",
+    "storage_bucket": "forgameoffood-798d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82317450134:android:253bba0a906704fe",
+        "android_client_info": {
+          "package_name": "techkids.vn.gameoffoodsender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82317450134-1c0sa9k3vh82k7b81r8p9975o4eur8u7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "techkids.vn.gameoffoodsender",
+            "certificate_hash": "515b8d981a79c72f4c5a0624b0277218cacedc51"
+          }
+        },
+        {
+          "client_id": "82317450134-iah3c77gvi1fajo2smu2qj5m4komm77r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZrxqEn27sYdGrohe_JTbICjEY5EO5Ffc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82317450134-iah3c77gvi1fajo2smu2qj5m4komm77r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
